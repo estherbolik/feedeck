@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c65d0af9.chunk.css",
+    "main.js": "/static/js/main.58e33688.chunk.js",
+    "main.js.map": "/static/js/main.58e33688.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.06e1363e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.06e1363e.js.map",
+    "static/css/2.6f69e19b.chunk.css": "/static/css/2.6f69e19b.chunk.css",
+    "static/js/2.4950c15d.chunk.js": "/static/js/2.4950c15d.chunk.js",
+    "static/js/2.4950c15d.chunk.js.map": "/static/js/2.4950c15d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.6f69e19b.chunk.css.map": "/static/css/2.6f69e19b.chunk.css.map",
+    "static/css/main.c65d0af9.chunk.css.map": "/static/css/main.c65d0af9.chunk.css.map",
+    "static/js/2.4950c15d.chunk.js.LICENSE.txt": "/static/js/2.4950c15d.chunk.js.LICENSE.txt",
+    "static/media/ballclark.92916064.png": "/static/media/ballclark.92916064.png",
+    "static/media/index.css": "/static/media/lora-latin-700italic.dceed95b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06e1363e.js",
+    "static/css/2.6f69e19b.chunk.css",
+    "static/js/2.4950c15d.chunk.js",
+    "static/css/main.c65d0af9.chunk.css",
+    "static/js/main.58e33688.chunk.js"
+  ]
+}
